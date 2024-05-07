@@ -1,2 +1,2 @@
-# exemplo-poo
-Pequena aplicação de console em C#, que tenta exemplificar os 4 pilares da Programação Orientada a Objetos.
+# Programação Orientada a Objetos usando C#
+Aplicação desenvolvida para a aula de Pensamento Computacional da Atitus, ministrada pela professora Vitória Paczek.
